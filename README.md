@@ -4,9 +4,9 @@
 
 ###
 
-<div>
+<div align="center">
   <a href="https://dream-copy-magic.lovable.app" target="_blank">
-    <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=88&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=#469f25" />
+    <img height="170" src="https://dream-copy-magic.lovable.app/assets/logo-wVyTnXlK.jpg" />
   </a>
 </div>
 
