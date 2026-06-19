@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://dream-copy-magic.lovable.app" target="_blank">
+  <a href="https://dmcoders.vercel.app" target="_blank">
     <img height="170" src="https://dream-copy-magic.lovable.app/assets/logo-wVyTnXlK.jpg" />
   </a>
 </div>
